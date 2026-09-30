@@ -1,1 +1,1 @@
-# cyber_sec1
+# Report template on laboratory work
